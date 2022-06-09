@@ -1,3 +1,6 @@
+api key: GJkIVPN79qQ3iCP6iWtb6nYMYE1M24Uh
+https://animate.style/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
